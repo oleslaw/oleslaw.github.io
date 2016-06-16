@@ -2,6 +2,8 @@
  * Globals
  */
 
+@import 'https://fonts.googleapis.com/css?family=Raleway:300';
+
 /* Links */
 a,
 a:focus,
@@ -28,6 +30,7 @@ html,
 body {
   height: 100%;
   background-color: #333;
+  font-family: 'Raleway', sans-serif;
 }
 body {
   color: #fff;
@@ -122,6 +125,7 @@ body {
 
 .mastfoot {
   color: rgba(255,255,255,.5);
+  font-family: sans-serif;
 }
 
 
